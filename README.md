@@ -1,5 +1,7 @@
 # Project
 Covid Chat Bot
+
+
 Problem Statement: On 11 March 2020, the WHO Director-General “rang the alarm bell loud and clear” by calling COVID-19 a pandemic. Globally and locally, control and prevention measures have been frustrated by myriad challenges. First, accurate information is crucial, but often unknown, or obscured by misinformation. During a pandemic, people do not know what to do. Doing too little (e.g., not following prophylactic measures) can increase everyone’s risk of infection.
 Pandemics have unique characteristics that make them amenable to tailored interventions deliverable via chatbots. 
 This is a Covid Chat Bot which answers Covid related queries.
