@@ -13,8 +13,17 @@ This project is related to the global pandemic of Covid -19. It has a QnA set re
 Project Demo url 
 https://anuja.z13.web.core.windows.net/
 
+Creating a bot:
 Create your account and log in to Azure Portal.
 Next, click Create a resource.
 Click Create new to create a resource group. ...
 Next, set up a Bot template. ...
 View more samples will take you to the Bot Framework samples repository where you can see examples of chatbots you can create with custom code.
+Creating a Static Website:
+Open the Azure portal in your web browser.
+Locate your storage account and display the account overview.
+Select Static website to display the configuration page for static websites.
+Select Enabled to enable static website hosting for the storage account.
+In the Index document name field, specify a default index page of index.html. The default index page is displayed when a user navigates to the root of your static website.
+In the Error document path field, specify a default error page of 404.html. The default error page is displayed when a user attempts to navigate to a page that does not exist in your static website.
+
